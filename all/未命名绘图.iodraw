@@ -101,7 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PtTSwHqWphg8roadx_dv-15" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="30" height="190" as="geometry" />
+          <mxGeometry x="330" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTSwHqWphg8roadx_dv-16" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="30" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
