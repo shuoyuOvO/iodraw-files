@@ -11,7 +11,7 @@
           <mxGeometry x="530" y="-315" width="50" height="870" as="geometry" />
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-5" value="乡镇居民健康评估系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="370" y="40" width="135" height="60" as="geometry" />
+          <mxGeometry x="490" y="40" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-8" value="居民用户" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="140" width="130" height="40" as="geometry" />
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="140" as="sourcePoint" />
-            <mxPoint x="440" y="120" as="targetPoint" />
+            <mxPoint x="550" y="140" as="sourcePoint" />
+            <mxPoint x="550" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-30" value="注&lt;div&gt;册&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
