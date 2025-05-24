@@ -145,8 +145,11 @@
             <mxPoint x="445" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtTSwHqWphg8roadx_dv-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="PtTSwHqWphg8roadx_dv-29" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="240" as="sourcePoint" />
+            <mxPoint x="455" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
