@@ -109,6 +109,12 @@
         <mxCell id="PtTSwHqWphg8roadx_dv-17" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="30" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="PtTSwHqWphg8roadx_dv-18" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PtTSwHqWphg8roadx_dv-19" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
