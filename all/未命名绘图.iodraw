@@ -17,7 +17,7 @@
           <mxGeometry x="60" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-12" value="医务人员" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="140" width="122.5" height="40" as="geometry" />
+          <mxGeometry x="560" y="140" width="122.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8zKI7FATXcnFeaBtQ3-j-15" value="管理员" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="140" width="140" height="40" as="geometry" />
@@ -100,7 +100,7 @@
             <mxPoint x="105" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtTSwHqWphg8roadx_dv-15" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PtTSwHqWphg8roadx_dv-15" value="登&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="30" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PtTSwHqWphg8roadx_dv-16" value="我&lt;div&gt;的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
